@@ -3,3 +3,4 @@ MENU PRINCIPAL
 tipo de carnes de la cocina terminos de la carne 
 platos principales del menu del dia 
 Bebidas recomendadas del dia 
+Consejos y sugerencias para mejor cada dia mas el menu 
