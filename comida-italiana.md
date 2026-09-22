@@ -6,3 +6,7 @@ Platos principales del menú
 - Pizza Margarita: Masa con tomate, mozzarella y albahaca.
 - **Pizza Margarita:** Masa con tomate, mozzarella y albahaca.
 - **Pasta Carbonara:** Espaguetis con huevo, queso y panceta.
+## Bebidas Recomendadas
+- Agua con gas.
+- Limonada.
+- Jugo de frutas.
