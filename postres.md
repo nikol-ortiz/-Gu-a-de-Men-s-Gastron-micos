@@ -10,3 +10,7 @@ Los postres son preparaciones dulces ideales para finalizar una comida y disfrut
 - Chocolate caliente.
 - Café.
 - Batido de vainilla.
+## Consejos
+- Decorar los postres de forma sencilla.
+- Mantenerlos refrigerados cuando sea necesario.
+- Utilizar ingredientes frescos y de buena calidad.
