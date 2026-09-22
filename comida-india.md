@@ -9,3 +9,7 @@ Platos principales del menú.
  Bebidas recomendadas
  - Lassi de mango.
 - Agua con limón.
+Consejos y sugerencias.
+- Utilizar las especias.
+- Acompañar el curry con arroz.
+- Servir los platos recién preparados.
