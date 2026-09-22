@@ -6,3 +6,7 @@ Platos principales del menú.
 - Ratatouille: Preparación de verduras como tomate, berenjena y calabacín.
 - Quiche Lorraine: Tarta salada con huevo, queso y otros ingredientes.
 - Crepes: Preparación delgada que puede servirse con ingredientes dulces o salados.
+Bebidas recomendadas.
+- Limonada.
+- Agua.
+- Jugo de manzana.
