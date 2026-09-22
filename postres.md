@@ -5,3 +5,8 @@ Los postres son preparaciones dulces ideales para finalizar una comida y disfrut
 - **Tiramisú:** Postre elaborado con café, crema y bizcochos.
 - **Cheesecake:** Tarta cremosa de queso con una base crujiente.
 - **Brownie:** Bizcocho de chocolate de textura suave y húmeda.
+
+## Bebidas Recomendadas
+- Chocolate caliente.
+- Café.
+- Batido de vainilla.
