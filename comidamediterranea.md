@@ -6,5 +6,7 @@ Platos principales del menú.
 - Ensalada Griega: Tomate, pepino, aceitunas, queso y otros vegetales.
 - Pescado al Horno: Pescado preparado con verduras y hierbas.
 - Hummus: Crema de garbanzos con tahini y limón.
-
+ Bebidas recomendadas.
+ - Agua con limón.
+- Jugo de naranja.
 
