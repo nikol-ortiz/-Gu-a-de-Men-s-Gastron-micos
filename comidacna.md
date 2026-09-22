@@ -11,3 +11,8 @@ Bebidas recomendadas
 ------
 -----
 -----
+Consejos y sugerencias
+- Cortar los ingredientes en tamaños similares.
+- Cocinar las verduras sin perder su textura.
+- Servir los platos calientes.
+--------------------
