@@ -7,3 +7,5 @@ Platos principales del menú.
 - Enchiladas:Tortillas rellenas y acompañadas de salsa y queso.
  Bebidas recomendadas.
  - Agua con limón.
+ Consejos y sugerencias. 
+utilizar ingredientes frescos.
