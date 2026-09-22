@@ -9,4 +9,6 @@ Platos principales del menú.
  Bebidas recomendadas.
  - Agua con limón.
 - Jugo de naranja.
+Consejos y sugerencias.
+- Utilizar ingredientes frescos.
 
