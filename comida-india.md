@@ -6,3 +6,6 @@ Platos principales del menú.
 - Pollo : Pollo acompañado de una salsa cremosa con especias.
 - Biryani: Arroz aromático preparado con especias y diferentes ingredientes.
 - Samosas: Empanadillas rellenas de verduras y especias.
+ Bebidas recomendadas
+ - Lassi de mango.
+- Agua con limón.
