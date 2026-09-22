@@ -11,3 +11,7 @@ Bebidas recomendadas.
 - Té verde.
 - Agua.
 - Limonada japonesa.
+Consejos y sugerencias.
+- Utilizar ingredientes frescos.
+- Cuidar la presentación de los platos.
+- Servir el sushi recién preparado
