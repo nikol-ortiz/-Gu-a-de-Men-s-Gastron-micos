@@ -10,3 +10,6 @@ Bebidas recomendadas.
 - Limonada.
 - Agua.
 - Jugo de manzana.
+Consejos y sugerencias.
+- Cuidar la presentación.
+- Utilizar ingredientes frescos.
