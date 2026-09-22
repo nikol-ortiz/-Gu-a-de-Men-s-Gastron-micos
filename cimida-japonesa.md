@@ -7,3 +7,7 @@ Platos principales del menú.
 -----------------
 -----------------
 -----------------------
+Bebidas recomendadas.
+- Té verde.
+- Agua.
+- Limonada japonesa.
