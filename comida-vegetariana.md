@@ -8,3 +8,5 @@ Pasta con Verduras: Pasta acompañada de diferentes vegetales.
  Bebidas recomendadas.
  Jugo natural.
 - Batido de frutas.
+Consejos y sugerencias.
+utilizar ingredientes frescos.
