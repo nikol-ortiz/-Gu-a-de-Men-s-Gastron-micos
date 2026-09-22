@@ -10,3 +10,5 @@ Platos principales del menú
 - Agua con gas.
 - Limonada.
 - Jugo de frutas.
+## Consejos
+- Utilizar ingredientes frescos.
