@@ -5,3 +5,6 @@ La cocina vegetariana ofrece preparaciones variadas basadas principalmente en ve
 Platos principales del menú.
 Hamburguesa Vegetariana: Hamburguesa preparada con legumbres y vegetales.
 Pasta con Verduras: Pasta acompañada de diferentes vegetales.
+ Bebidas recomendadas.
+ Jugo natural.
+- Batido de frutas.
