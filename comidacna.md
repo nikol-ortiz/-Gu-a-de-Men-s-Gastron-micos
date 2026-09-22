@@ -6,3 +6,8 @@ Platos principales del menú de la comida china
 -------------
 ---------
 -----
+Bebidas recomendadas
+-------
+------
+-----
+-----
